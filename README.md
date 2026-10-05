@@ -1,11 +1,5 @@
 # VELOUR
 
-## YouTube Tutorial
-
-[![Watch the VELOUR eCommerce tutorial on YouTube](https://img.youtube.com/vi/qLr-wwwNB4o/maxresdefault.jpg)](https://youtu.be/qLr-wwwNB4o)
-
-Follow the complete build in the [YouTube video tutorial](https://youtu.be/qLr-wwwNB4o).
-
 ## Project Resources
 
 | Resource | URL | Purpose |
